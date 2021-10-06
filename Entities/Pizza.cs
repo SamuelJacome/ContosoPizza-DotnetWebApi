@@ -1,6 +1,6 @@
-namespace ContosoPizza.Controllers.Entities
+namespace ContosoPizza.Entities
 {
-    public class pizza
+    public class Pizza
     {
         public int Id { get; set; }
         public string Name { get; set; }
